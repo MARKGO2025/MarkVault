@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "ce55d94457b3dd46",
+    "type": "split",
+    "children": [
+      {
+        "id": "648148b1b34be9e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52d394a04119ca11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 监护办/监护办流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "监护办流程"
+            }
+          },
+          {
+            "id": "b76e13e416854328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 监护办/监护办流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "监护办流程"
+            }
+          },
+          {
+            "id": "d3afb8b4ad9ef43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 监护办/轨道交通监护要求.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "轨道交通监护要求"
+            }
+          },
+          {
+            "id": "49faf7c24b8a3ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 监护办/技术审查意见.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "技术审查意见"
+            }
+          },
+          {
+            "id": "9e80b8ab00820fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 监护办/燃气改造项目/低风险项目/202510031-大渡河路1262弄燃气管道改造.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510031-大渡河路1262弄燃气管道改造"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6579b387522bf0dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d24e5f832360d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d3dd2ecd87bec89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ad524ec3d9bcb6f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d9f80a5a5e32352b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6a673c7bee510c36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 监护办/燃气改造项目/低风险项目/202510031-大渡河路1262弄燃气管道改造.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "202510031-大渡河路1262弄燃气管道改造 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f457fda63bed6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "535c691791272185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d40691028ac889",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "中国债券.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 中国债券"
+            }
+          },
+          {
+            "id": "779396894e27484d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9cb8495a965ecaf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9e80b8ab00820fd4",
+  "lastOpenFiles": [
+    "00 监护办/技术审查意见.md",
+    "00 监护办/轨道交通监护要求.md",
+    "00 监护办/燃气改造项目/低风险项目/202510031-大渡河路1262弄燃气管道改造.md",
+    "00 监护办/燃气改造项目/低风险项目",
+    "00 监护办/燃气改造项目",
+    "00 监护办/监护办流程.md",
+    "04 专项研究/AI 本地化部署 docker+ollama+FastGPT+ONE API.md",
+    "06 读书笔记/《房间里的大象》-Eviatar Zerubavel.md",
+    "00 监护办",
+    "06 读书笔记/基本面分析与估值框架.md",
+    "99 技巧与工具/实用小工具.md",
+    "未命名.base",
+    "未命名 1.base",
+    "02 INVEST/01 基础知识学习/GDP.md",
+    "99 技巧与工具/未命名/未.md",
+    "常用工具/未命名",
+    "常用工具",
+    "生活习惯/未命名.md",
+    "生活习惯",
+    "行业研究/财务分析及公司估值/基本面分析与估值框架.md",
+    "行业研究/稳定币/金融科技专题报告：加密货币的演进与稳定币产业生态布局.md",
+    "行业研究/财务分析及公司估值",
+    "行业研究/稳定币/香港稳定币产业生态再梳理 - 报告摘要.md",
+    "债券/中国债券.md",
+    "行业研究/稳定币",
+    "经济宏观指标/GDP.md",
+    "经济宏观指标/4.md",
+    "广汽汇理租赁组织与薪酬访谈综合报告.md",
+    "经济宏观指标/5.md",
+    "经济宏观指标/7.md",
+    "债券/中国债券（包含解释）.md",
+    "广汽汇理租赁组织与薪酬访谈综合报告 - 副本.md",
+    "经济宏观指标/6.md"
+  ]
+}
