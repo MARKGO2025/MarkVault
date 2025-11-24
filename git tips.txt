@@ -1,0 +1,28 @@
+git remote add origin https://github.com/MARKGO2025/MarkVault.git
+git pull origin master
+git status
+git add .
+git commit -m "FutureMateBook_20251109_19:16"
+git push -u origin master
+git reset –-hard  xxx
+git check out  master
+git merge xxx
+
+
+# 创建轻量标签（指向当前提交）
+git tag v1.0.0
+
+# 创建附注标签（包含详细信息）
+git tag -a v1.0.0 -m "版本 1.0.0 发布"
+git tag -a v2.1.3 -m "修复安全漏洞，优化性能"
+
+# 为历史提交创建标签
+git tag -a v1.0.0-beta abc1234 -m "Beta 版本"
+# 列出所有标签
+git tag
+git tag -l "v1.*"          # 按模式过滤
+git tag -l "*-beta"        # 列出所有beta版本
+
+# 查看标签详情
+git show v1.0.0
+git show --name-only v1.0.0  # 只显示变更文件
