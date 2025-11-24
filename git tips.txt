@@ -1,4 +1,5 @@
 git remote add origin https://github.com/MARKGO2025/MarkVault.git
+git config --get remote.origin.url
 git pull origin master
 git status
 git add .

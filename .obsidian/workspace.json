@@ -11,10 +11,12 @@
             "id": "a40c788a13a38ad1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "image",
+              "state": {
+                "file": "99 技巧与工具/git常用命令.png"
+              },
+              "icon": "lucide-image",
+              "title": "git常用命令"
             }
           }
         ]
@@ -179,8 +181,8 @@
   },
   "active": "7d3dd2ecd87bec89",
   "lastOpenFiles": [
-    "未命名.md",
     "水电费.png",
+    "未命名.md",
     "Excalidraw/Drawing 2025-11-24 20.46.40.excalidraw.md",
     "123/Drawing 2025-11-24 20.46.34.excalidraw.md",
     "123/Drawing 2025-11-24 20.46.16.excalidraw.md",
