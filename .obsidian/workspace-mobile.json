@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "c0e1128963295c51",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c71ddc00026366b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60116f560661798c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 监护办/会议纪要/技术审查类/齐鲁制药总部（E15-02、04地块）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "齐鲁制药总部（E15-02、04地块）"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7afb5cb231fad0e5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4ec62995a6e79904",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "c1a8e0ba3e3f558a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a4522f7abaf9b131",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c4aba33e11c2d09e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "88b8f36d10d2dbd8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5c2221662a128859",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "公司基本面分析.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "ab7fb550c5888cf6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3483cae474a097c5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "0abc2fe062648465",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "4ec62995a6e79904",
+  "lastOpenFiles": [
+    "git tips.txt",
+    "00 监护办/会议纪要/技术审查类/梅园社区2E8-17地块项目桩基工程.md",
+    "00 监护办/会议纪要/技术审查类/齐鲁制药总部（E15-02、04地块）.md",
+    "00 监护办/会议纪要/部门会议类/技术部例会2025年11月24日.md",
+    "00 监护办/会议纪要/部门会议类/技术部例会2025年11月13日.md",
+    "00 监护办/会议纪要/部门会议类/会议纪要-部门会议类模板.md",
+    "00 监护办/会议纪要/部门会议类/技术管理信息化平台建设需求交流会会议纪要.md",
+    "00 监护办/会议纪要/部门会议类/系统介绍2025年11月13日.md",
+    "00 监护办/会议纪要/技术审查类/10号线三门路站～江湾体育场“杨浦特大暴雨易积水区”.md",
+    "00 监护办/会议纪要/技术审查类/10号线_现场附图.jpg",
+    "00 监护办/会议纪要/技术审查类/207A208A209A建筑基坑项目.md",
+    "未命名.base",
+    "00 监护办/会议纪要/技术审查类/会议纪要-技术审查类模板.md",
+    "00 监护办/轨道交通监护要求.md",
+    "00 监护办/会议纪要/部门会议类",
+    "00 监护办/会议纪要/技术审查类",
+    "00 监护办/会议纪要",
+    "00 监护办/监护办流程.md",
+    "00 监护办/技术审查意见.md",
+    "公司基本面分析.md",
+    "MarkVault/02 INVEST/03 专题/01 债券/00 思维导图/中国债券（包含解释）.md",
+    "MarkVault/02 INVEST/03 专题/01 债券/00 思维导图/中国债券.md",
+    "MarkVault/02 INVEST/03 专题/01 债券/00 思维导图",
+    "MarkVault/00 监护办/燃气改造项目/低风险项目/202510031-大渡河路1262弄燃气管道改造.md",
+    "MarkVault/05 前沿技术及知识/稳定币/香港稳定币产业生态再梳理 - 报告摘要.md",
+    "MarkVault/05 前沿技术及知识/稳定币/金融科技专题报告：加密货币的演进与稳定币产业生态布局.md",
+    "MarkVault/02 INVEST/03 专题/01 债券",
+    "MarkVault/02 INVEST/01 基础知识学习/GDP.md",
+    "MarkVault/02 INVEST/01 基础知识学习/7.md",
+    "MarkVault/02 INVEST/01 基础知识学习/6.md",
+    "MarkVault/02 INVEST/01 基础知识学习/5.md",
+    "MarkVault/02 INVEST/01 基础知识学习/4.md",
+    "MarkVault/00 监护办/燃气改造项目/低风险项目",
+    "MarkVault/99 技巧与工具/实用小工具.md",
+    "MarkVault/05 前沿技术及知识/稳定币",
+    "MarkVault/02 INVEST/03 专题",
+    "MarkVault/02 INVEST/01 基础知识学习"
+  ]
+}

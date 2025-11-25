@@ -1,0 +1,19 @@
+[
+<<<<<<< HEAD
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-heading-shifter",
+  "obsidian-mind-map",
+  "number-headings-obsidian",
+  "obsidian-checklist-plugin",
+  "obsidian-underline",
+  "highlightr-plugin"
+=======
+  "obsidian-pandoc",
+  "number-headings-obsidian",
+  "obsidian-heading-shifter",
+  "obsidian-mind-map",
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian"
+>>>>>>> 174ea9228fdad46bb314e5f5559355e1cb1d1a1d
+]

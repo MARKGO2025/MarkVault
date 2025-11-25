@@ -1,0 +1,140 @@
+{
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "5"
+    }
+  ],
+<<<<<<< HEAD
+  "editor:toggle-bullet-list": [
+=======
+  "editor:set-heading-6": [
+>>>>>>> 174ea9228fdad46bb314e5f5559355e1cb1d1a1d
+    {
+      "modifiers": [
+        "Mod"
+      ],
+<<<<<<< HEAD
+      "key": "L"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+=======
+      "key": "6"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+>>>>>>> 174ea9228fdad46bb314e5f5559355e1cb1d1a1d
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+<<<<<<< HEAD
+  "workspace:goto-tab-7": [],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+=======
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+>>>>>>> 174ea9228fdad46bb314e5f5559355e1cb1d1a1d
+  "editor:set-heading-0": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+<<<<<<< HEAD
+  "highlightr-plugin:unhighlight": [
+=======
+  "editor:clear-formatting": [
+>>>>>>> 174ea9228fdad46bb314e5f5559355e1cb1d1a1d
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+<<<<<<< HEAD
+      "key": "R"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+=======
+      "key": "D"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "table-editor-obsidian:table-control-bar": [],
+  "workspace:goto-tab-7": []
+>>>>>>> 174ea9228fdad46bb314e5f5559355e1cb1d1a1d
+}
