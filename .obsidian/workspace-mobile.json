@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 监护办/会议纪要/技术审查类/齐鲁制药总部（E15-02、04地块）.md",
+                "file": "123.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "齐鲁制药总部（E15-02、04地块）"
+              "title": "123"
             }
           }
         ]
@@ -145,8 +145,8 @@
         "state": {
           "type": "todo",
           "state": {},
-          "icon": "checkmark",
-          "title": "Todo List"
+          "icon": "lucide-ghost",
+          "title": "todo"
         }
       }
     ],
@@ -160,13 +160,12 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "4ec62995a6e79904",
+  "active": "60116f560661798c",
   "lastOpenFiles": [
+    "123.md",
     "git tips.txt",
     "00 监护办/会议纪要/技术审查类/梅园社区2E8-17地块项目桩基工程.md",
     "00 监护办/会议纪要/技术审查类/齐鲁制药总部（E15-02、04地块）.md",
@@ -202,7 +201,6 @@
     "MarkVault/00 监护办/燃气改造项目/低风险项目",
     "MarkVault/99 技巧与工具/实用小工具.md",
     "MarkVault/05 前沿技术及知识/稳定币",
-    "MarkVault/02 INVEST/03 专题",
-    "MarkVault/02 INVEST/01 基础知识学习"
+    "MarkVault/02 INVEST/03 专题"
   ]
 }
